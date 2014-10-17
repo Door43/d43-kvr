@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kvr:home|Door43 (kvr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kvr|d43-kvr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kvr/archive/master.zip|d43-kvr.zip]]
+
+**Recent Changes**
+{{changes>ns = kvr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kvr|Ethnologue data]]
+
